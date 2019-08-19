@@ -1,10 +1,10 @@
 # esx_motorcycledealer
 
-This script is a modified of esx_vehicleshop By ESX-Org
+This script is a modified of esx_vehicleshop By [ESX-Org](https://github.com/ESX-Org/esx_vehicleshop)
 
 ## Requirements
 
-* Auto mode (everyone can buy vehicles from the dealer)
+* Auto mode (everyone can buy motorcycl from the dealer)
   * No need to download another resource
 
 ## Download & Installation
@@ -36,7 +36,7 @@ start esx_motorcycledealer
 ### License
 esx_motorcycledealer - Motorcycle Dealer for ESX
 
-Copyright (C) 2015-2018 Jérémie N'gadi
+Copyright (C) 2015-2018 Jérémie N'gadi | Edit/Modified by Amir 2019
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
